@@ -10,3 +10,8 @@ calculator
 
 https://github.com/varshini67t/CODSOFT/assets/107982953/09ec3a63-91bd-4224-aa97-4c463a136c4b
 
+# task_3
+password generator
+
+https://github.com/varshini67t/CODSOFT/assets/107982953/290b04eb-1b4e-47f7-8b94-c31603ae7e51
+
