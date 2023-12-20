@@ -15,3 +15,8 @@ password generator
 
 https://github.com/varshini67t/CODSOFT/assets/107982953/8c522186-d0b8-4d14-a164-2672cee5b9d5
 
+# task_5
+quiz game
+
+https://github.com/varshini67t/CODSOFT/assets/107982953/d6be34c1-eef1-4152-bf2c-3a46307ca13a
+
